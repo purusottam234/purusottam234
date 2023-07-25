@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purusottam234
-- 👀 I’m interested in Machine learning ,Deep learning and Data Science.
+- 👀 I’m interested in Software development, Machine learning ,Deep learning and Data Science.
 - 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on Linkedin.
 - 📫 How to reach me https://www.linkedin.com/in/purusottam-adhikari/ or through email purusottamadhikari234@gmail.com
